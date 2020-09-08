@@ -1,0 +1,24 @@
+{
+  "name": "CRUD-Json",
+  "version": "1.0.0",
+  "description": "A CRUD made with JS.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMustang/CRUD-Json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMustang/CRUD-Json/issues"
+  },
+  "homepage": "https://github.com/JMustang/CRUD-Json#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
